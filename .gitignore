@@ -1,0 +1,7 @@
+/data/
+/load_files/
+/extracted/
+/venv/
+*.xml
+*.json
+
